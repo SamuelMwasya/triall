@@ -1,3 +1,9 @@
 never cover a book by its judge
+<<<<<<< HEAD
 
 and who said we should walk forward
+=======
+ # the things we did
+ 
+ ## who went to the city today?
+>>>>>>> 05765a6a4710c8039bc9493ac9d6b1449892bbab
